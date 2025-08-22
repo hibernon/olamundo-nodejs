@@ -1,2 +1,7 @@
 # olamundo-nodejs
-Aplicacão simples 
+
+Aplicacão simples
+
+# Executar a aplicação
+
+node index.js
